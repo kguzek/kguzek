@@ -52,8 +52,8 @@ If you would like to collaborate on a project or have any other inquiry, feel fr
 <div align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=kguzek&theme=city_lights" alt="streak" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kguzek&layout=donut&theme=city_lights" alt="languages" />
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kguzek&theme=city_lights&langs_count=6" alt="wakatime" />
 	<img src="https://github-readme-stats.vercel.app/api?username=kguzek&show_icons=true&theme=city_lights" alt="stats" />
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kguzek&theme=city_lights&langs_count=6" alt="wakatime" />
 </div>
 
 ## Contributions

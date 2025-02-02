@@ -47,6 +47,15 @@ If you would like to collaborate on a project or have any other inquiry, feel fr
 
 ~ Konrad
 
+## Statistics
+
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kguzek&theme=city_lights&langs_count=6" alt="wakatime" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kguzek&layout=donut&theme=city_lights" alt="languages" />
+	<img src="https://github-readme-stats.vercel.app/api?username=kguzek&show_icons=true&theme=city_lights" alt="stats" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=kguzek&theme=city_lights" alt="streak" />
+</div>
+
 ## Contributions
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kguzek&bg_color=1a1a1a&color=747474&line=1076a7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kguzek&bg_color=1a1a1a&color=747474&line=1076a7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

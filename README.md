@@ -50,10 +50,18 @@ If you would like to collaborate on a project or have any other inquiry, feel fr
 ## Statistics
 
 <div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=kguzek&theme=city_lights" alt="streak" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kguzek&layout=donut&theme=city_lights" alt="languages" />
-	<img src="https://github-readme-stats.vercel.app/api?username=kguzek&show_icons=true&theme=city_lights" alt="stats" />
-	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kguzek&theme=city_lights&langs_count=6" alt="wakatime" />
+	<a href="https://github-readme-streak-stats.herokuapp.com/?user=kguzek&theme=city_lights">
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=kguzek&theme=city_lights" alt="streak" />
+	</a>
+	<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kguzek&layout=donut&theme=city_lights">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kguzek&layout=donut&theme=city_lights" alt="languages" />
+	</a>
+	<a href="https://github-readme-stats.vercel.app/api?username=kguzek&show_icons=true&theme=city_lights&custom_title=Github%20Stats&show=prs_merged_percentage">
+		<img src="https://github-readme-stats.vercel.app/api?username=kguzek&show_icons=true&theme=city_lights&custom_title=Github%20Stats&show=prs_merged_percentage" alt="stats" />
+	</a>
+	<a href="https://github-readme-stats.vercel.app/api/wakatime?username=kguzek&theme=city_lights&langs_count=6">
+		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kguzek&theme=city_lights&langs_count=6" alt="wakatime" />
+	</a>
 </div>
 
 ## Contributions

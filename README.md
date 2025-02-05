@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkguzek%2Fkguzek&count_bg=%232C93BC&title_bg=%23505557&icon=&icon_color=%23E7E7E7&title=visitors+today&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Technologies
+## 💻 Technologies
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code>
@@ -33,11 +33,20 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" alt="fedora" title="fedora"/></code>
 </div>
 
-## About me
+## 🇵🇱 About Me
 
-Hello! I'm a computer science engineering student based in Poland with a passion for programming. I love both front- and back-end development, but don't expect my designs to be visually beautiful. This is why I believe in the paramount importance of engineer-designer cooperation.
+I'm a Computer Science Engineering Student who is passionate about both front-end and back-end development.
+Due to my focus on functionality over aesthetics, I strongly believe in the power of engineer-designer collaboration to create amazing products.
 
-I enjoy: programming mods for games like GTA V, Factorio & Minecraft; developing tool-oriented software like desktop or CLI applications; and creating full service web applications and server infrastructure, specifically with Node.js – _I know, sorry_! Apart from programming I also like to dabble in system administration, hosting my own HP EliteDesk as well as Raspberry Pi servers; and of course the endless configuration of Linux distros.
+## 🚀 What I Do
+
+- 🎮 Develop mods for games like GTA V, Factorio & Minecraft
+- 🛠️ Create tool-oriented software (desktop & CLI applications)
+- 🌐 Build full-service web applications and server infrastructure with Node.js or Java
+- 🖥️ Dabble in system administration (HP EliteDesk & Raspberry Pi servers)
+- 🐧 ... endlessly configure Linux distros!
+
+## 📫 Get in touch
 
 If you would like to collaborate on a project or have any other inquiry, feel free to contact me via:
 
@@ -47,7 +56,7 @@ If you would like to collaborate on a project or have any other inquiry, feel fr
 
 ~ Konrad
 
-## Statistics
+## 📊 Statistics
 
 <div align="center">
 	<a href="https://github-readme-streak-stats.herokuapp.com/?user=kguzek&theme=city_lights">
@@ -64,6 +73,6 @@ If you would like to collaborate on a project or have any other inquiry, feel fr
 	</a>
 </div>
 
-## Contributions
+## 🌟 Contributions
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kguzek&bg_color=1a1a1a&color=747474&line=1076a7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

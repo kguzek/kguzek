@@ -1,7 +1,5 @@
 # Konrad Guzek
 
-<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkguzek%2Fkguzek&count_bg=%232C93BC&title_bg=%23505557&icon=&icon_color=%23E7E7E7&title=visitors+today&edge_flat=false)](https://hits.seeyoufarm.com)-->
-
 ## 💻 Technologies
 
 <div align="center">
@@ -35,20 +33,34 @@
 
 ## 🇵🇱 About Me
 
-I'm a Computer Science Engineering Student who is passionate about both front-end and back-end development.
-Due to my focus on functionality over aesthetics, I strongly believe in the power of engineer-designer collaboration to create amazing products.
+I'm a Computer Science student and web developer with a passion for both front-end and back-end technologies.
+I focus on building functional, scalable solutions while valuing collaboration with designers to create polished and user-friendly products.
 
-## 🚀 What I Do
+## 🚀 Experience & Interests
 
-- 🎮 Develop mods for games like GTA V, Factorio & Minecraft
-- 🛠️ Create tool-oriented software (desktop & CLI applications)
-- 🌐 Build full-service web applications and server infrastructure with Node.js or Java
-- 🖥️ Dabble in system administration (HP EliteDesk & Raspberry Pi servers)
-- 🐧 ... endlessly configure Linux distros!
+### 🌐 Full-Stack Development
+
+- Build web applications with Next.js, React, and TypeScript
+- Collaborate on user-friendly, functional interfaces
+- Develop desktop and CLI tools for productivity and automation
+
+### ⚙️ Server & System Administration
+
+- Design and maintain server infrastructure with Node.js, Java, Spring
+- Manage HP EliteDesk & Raspberry Pi servers
+- Configure and optimize Linux distributions for stability and performance
+
+### 🎮 Game Modding
+
+- Create mods for GTA V, Factorio, and Minecraft
+
+### 💻 Portfolio
+
+- Check out my [website](https://www.guzek.uk?utm_source=github&utm_medium=readme&utm_campaign=profile)!
 
 ## 📫 Get in touch
 
-If you would like to collaborate on a project or have any other inquiry, feel free to contact me via:
+Reach out via email:
 
 ```txt
 (my forename) at (my surname) dot (United Kingdom TLD)
